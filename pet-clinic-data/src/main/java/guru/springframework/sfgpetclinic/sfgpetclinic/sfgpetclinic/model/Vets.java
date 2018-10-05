@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package guru.springframework.sfgpetclinic.model;
+package guru.springframework.sfgpetclinic.sfgpetclinic.sfgpetclinic.model;
 
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
