@@ -46,8 +46,8 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:zpsewnay/sfg-pet-clinic.git</developerConnection>
-      <tag>sfg-pet-clinic-0.0.1</tag>
+        <developerConnection>scm:git:git@github.com:zpsewnay:zpsgithub1234/sfg-pet-clinic.git</developerConnection>
+        <tag>sfg-pet-clinic-0.0.1</tag>
   </scm>
 
 
